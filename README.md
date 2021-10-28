@@ -4,6 +4,7 @@
 I am a Software Developer with two years of experience currently attending the Boise Code Works for a stack and fundamentals refresher. I'm currently working on a collaborative  
 project for the Randy Carpenter Memorial Foundation, as well as an app in the municipal managment space. 
 
+
 My Strengths: 
 
 -I have an open mind and I am not only willing but also quite enjoy the process of putting ideas to scrutiny.
@@ -20,6 +21,7 @@ My Weaknesses (and how I am working on them):
 
 -I've aware that I enjoy the process of argumentation and having my ideas scrutinized where others do not. (I am working on strategies to better recognize when I need to take an alternative approach to introducing my solutions)
 
+
 Some Opportunites:
 
 -I believe I recognize a very large market that is currently under-served in the software space, and I am very exciteed to explore what kind of solutions can be provided. 
@@ -27,6 +29,7 @@ Some Opportunites:
 -I am always excited to grow, and I am hoping that I can find a company that I can grow and change with. 
 
 -I am a full-stack developer and I am sure I have the great opportunity to be able to interact with software at any point in it's lifecycle
+
 
 Some Threats:
 
