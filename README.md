@@ -9,7 +9,7 @@ portfolio and building out projects using Node.js, Bootstrap 5, and Vue.js 3.
 <ul>
  <li>JavaScript(Node, Vue, React)</li>
  <li>Mongo.DB, MySQL</li>
- <li>HTML/CSS, Bootstrap</li>
+ <li>HTML/CSS, SCSS/SASS, Bootstrap5</li>
  <li>C#, .Net Core</li>
  <li>Exposure to GCP and AWS, as well as Kubernetes</li>
  <!--<li><a href="https://JakeCarp.github.io/Portfolio/">See My Portfolio 💼</a></li>   -->
