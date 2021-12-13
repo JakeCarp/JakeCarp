@@ -12,7 +12,7 @@ portfolio and building out projects using Node.js, Bootstrap 5, and Vue.js 3.
  <li>HTML/CSS, SCSS/SASS, Bootstrap5</li>
  <li>C#, .Net Core</li>
  <li>Exposure to GCP and AWS, as well as Kubernetes</li>
- <!--<li><a href="https://JakeCarp.github.io/Portfolio/">See My Portfolio 💼</a></li>   -->
+ <li><a href="https://jakecarp.github.io/resume/">See My Portfolio 💼</a></li>  
 </ul>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeCarp)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,8 +22,7 @@ portfolio and building out projects using Node.js, Bootstrap 5, and Vue.js 3.
  <li>Python(Flask/Django)</li>
  <li>React-Redux</li>
 </ul> -->
-<!-- 
-<a>Check out my Portfolio</a> -->
+
 <b>Find Me At:</b><br>
  📧 &nbsp;jakecarpenter407@gmail.com<br>
  🔗 <a href="https://www.linkedin.com/in/dev-man-jacob-carpenter/">LinkedIn</a>
