@@ -16,12 +16,13 @@ portfolio and building out projects using Node.js, Bootstrap 5, and Vue.js 3.
 </ul>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeCarp)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <b>Currently Familiarizing Myself With:</b>
+
+<b>Currently Familiarizing Myself With:</b>
 <ul>
  <li>TypeScript</li>
  <li>Python(Flask/Django)</li>
  <li>React-Redux</li>
-</ul> -->
+</ul>
 
 <b>Find Me At:</b><br>
  📧 &nbsp;jakecarpenter407@gmail.com<br>
