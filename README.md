@@ -1,9 +1,8 @@
 ### Hi there 👋
  My name is Jacob Carpenter. ENTP-A
 
-I am a Software Developer with two years of experience and a passion for the unique 
-problems and challenges this field offers. I am currently working on modernizing my
-portfolio and building out projects using Node.js, Bootstrap 5, and Vue.js 3. 
+I am a Software Developer with five years of experience and a passion for the unique 
+problems and challenges this field offers.
 
 <b>My Tech Stack:</b>
 <ul>
