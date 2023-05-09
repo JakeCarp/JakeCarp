@@ -7,7 +7,7 @@ portfolio and building out projects using Node.js, Bootstrap 5, and Vue.js 3.
 
 <b>My Tech Stack:</b>
 <ul>
- <li>JavaScript(Node, Vue, React)</li>
+ <li>JavaScript/Typescript(Node, Vue, React, React Native)</li>
  <li>Mongo.DB, MySQL</li>
  <li>HTML/CSS, SCSS/SASS, Bootstrap5</li>
  <li>C#, .Net Core</li>
