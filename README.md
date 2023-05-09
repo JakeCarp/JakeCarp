@@ -19,9 +19,7 @@ portfolio and building out projects using Node.js, Bootstrap 5, and Vue.js 3.
 
 <b>Currently Familiarizing Myself With:</b>
 <ul>
- <li>TypeScript</li>
  <li>Python(Flask/Django)</li>
- <li>React-Redux</li>
 </ul>
 
 <b>Find Me At:</b><br>
