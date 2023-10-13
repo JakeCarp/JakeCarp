@@ -7,10 +7,10 @@ problems and challenges this field offers.
 <b>My Tech Stack:</b>
 <ul>
  <li>JavaScript/Typescript(Node, Vue, React, React Native)</li>
- <li>Mongo.DB, MySQL</li>
+ <li>Mongo.DB, MySQL, Postgres</li>
  <li>HTML/CSS, SCSS/SASS, Bootstrap5</li>
  <li>C#, .Net Core</li>
- <li>Exposure to GCP and AWS, as well as Kubernetes</li>
+ <li>Proficiency in Azure, exposure to GCP and AWS, as well as Kubernetes</li>
  <li><a href="https://jakecarp.github.io/resume/">See My Portfolio 💼</a></li>  
 </ul>
 
