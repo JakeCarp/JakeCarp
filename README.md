@@ -14,8 +14,6 @@ problems and challenges this field offers.
  <li><a href="https://jakecarp.github.io/resume/">See My Portfolio 💼</a></li>  
 </ul>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JakeCarp)](https://github.com/anuraghazra/github-readme-stats)
-
 <b>Currently Familiarizing Myself With:</b>
 <ul>
  <li>Python(Flask/Django)</li>
